@@ -9,7 +9,7 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ### Решение 
-![Alt text](https://github.com/Rinat43/rsync/blob/main/rsync.png)
+![Alt text](https://github.com/George210890/3.md/blob/main/rsync.png)
 
 
 ### Задание 2
@@ -29,7 +29,7 @@ rsync -av --delete /home/rinat/ /tmp/backup >> /var/log/cron.log
 ```
 - Скрин crontab
   
-![Alt text](https://github.com/Rinat43/rsync/blob/main/crontab.png)
+![Alt text](https://github.com/George210890/3.md/blob/main/crontab.png)
 - Скрин логов
   
-![Alt text](https://github.com/Rinat43/rsync/blob/main/3.png)
+![Alt text](https://github.com/George210890/3.md/blob/main/3.png)
